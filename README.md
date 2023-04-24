@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tusharjain25
-- 👀 I’m interested in ...java
-- 🌱 I’m currently learning ...react
+- 👀 I’m interested in ...java Fullstack
+- 🌱 I’m currently learning ...mern stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
